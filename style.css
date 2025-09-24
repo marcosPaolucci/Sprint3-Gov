@@ -1,0 +1,10 @@
+/* Remove o padding superior da página principal */
+div[data-testid="stAppViewContainer"] > .main {
+    padding-top: 1.5rem;
+}
+
+/* Estiliza os expanders de governança */
+div.st-emotion-cache-1h9usn1{
+    border: 1px solid #E0E0E0;
+    border-radius: 5px;
+}
